@@ -161,7 +161,7 @@
 
                       <li class="timeline-inverted">
                         <div class="timeline-image">
-                          <img class="img-circle img-responsive" src="{{ site.baseurl }}/assets/img/wangpeng.jpeg" alt="">
+                          <img class="img-circle img-responsive" src="{{ site.baseurl }}/assets/img/nazhao.jpg" alt="">
                         </div>
                       </li>
                 </ul>
