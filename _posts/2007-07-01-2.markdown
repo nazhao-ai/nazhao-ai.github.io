@@ -1,0 +1,7 @@
+---
+layout: null
+title: Fall 07 - Fall 12
+subtitle: <a href="http://english.hust.edu.cn/"> Huazhong University of Science and Technology, tongji medical college </a>
+image: "assets/img/hust.png"
+---
+major in dentist medicine

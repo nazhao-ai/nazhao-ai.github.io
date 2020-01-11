@@ -1,7 +1,0 @@
----
-layout: null
-title: Fall 12 - Fall 15
-subtitle: <a href="http://en.tisco.com.cn/"> Taiyuan iron and steel corporation </a>
-image: "assets/img/tisco1.jpeg"
----
-Concentration on the hyperparameter tuning for a real giant machine in order to make it learning.
