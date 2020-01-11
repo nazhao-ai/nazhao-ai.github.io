@@ -1,0 +1,7 @@
+---
+layout: null
+title: Fall 08 - Fall 12
+subtitle: <a href="http://english.kmust.edu.cn/"> Kunming University of Science and Technology </a>
+image: "assets/img/kust.jpg"
+---
+major in instrument and measurement science, concentration on the theory of pid controller
