@@ -1,7 +1,7 @@
 ---
 layout: null
 title: fall 17 - fall 19
-subtitle: <a href="http://www.shssdc.com"> polyu lei zhang Computer Vision Lab </a>
+subtitle: <a href="http://www.shssdc.com"> shanghai stomatological hospital, affiliated to fudan university </a>
 image: "assets/img/shanghaikouqiang.jpeg"
 ---
-Developed pid optimizer for deep learning optimization.
+Resident standardization training: comprehensive general denistry.
