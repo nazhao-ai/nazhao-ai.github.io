@@ -44,8 +44,6 @@
                 <th>authors</th>
                 <th>tags</th>
                 <th>paper</th>
-                <th>code</th>
-                <th>slides</th>
             </tr>
         </thead>
         <tbody>
@@ -55,8 +53,6 @@
                 <td> Yanke Hu, Wangpeng An, Raj Subramanian, <font color=42b9f4>Na Zhao</font>, Yang Gu and Weili Wu</td>
                 <td>ai, clinic data</td>
                 <td><a>Association for the Advancement of Artificial Intelligence</a></td>
-                <td>--</td>
-                <td>--</td>
             </tr>        
             <tr>
                 <td>2017</td>
@@ -64,8 +60,6 @@
                 <td><font color=42b9f4>Na Zhao</font>, Li Zeng, Yang Liu, Dong Han, Haochen Liu, Jian Xu, Yuxi Jiang, Cuiying Li, Tao Cai, Hailan Feng, Yixiang Wang</td>
                 <td>bone, stem cell</td>
                 <td><a href="https://portlandpress.com/clinsci/article-abstract/131/22/2721/71702">Clinical Science</a></td>
-                <td>--</td>
-                <td>--</td>
             </tr>
            <tr>
                 <td>2016</td>
@@ -73,8 +67,6 @@
                 <td><font color=42b9f4>Na Zhao</font>, Dong Han, Haochen Liu, Yue Li, Sing-Wai Wong, Zhengyi Cao, Jian Xu, Xiaowei Zhang, Tao Cai, Yixiang Wang, Hailan Feng</td>
                 <td>dl, safety</td>
                 <td><a href="https://www.nature.com/articles/srep38680">Scientific Reports </a></td>                
-                <td>--</td>
-                <td>--</td>
             </tr>            
             <tr>
                 <td>2016</td>
@@ -82,8 +74,6 @@
                 <td>Li Zeng, Jiahui Wei, <font color=42b9f4>Na Zhao</font>, Shichen Sun, Yixiang Wang, Hailan Feng</td>
                 <td>ml</td>
                 <td><a href="https://www.sciencedirect.com/science/article/pii/S0003996917303497">Archives of oral biology</a></td>
-                <td>--</td>
-                <td>--</td>
             </tr>            
            <tr>
                 <td>2018</td>
@@ -91,8 +81,6 @@
                 <td>Qi Fang, Heng L., X.C. Luo, Lieyun D., T. M. Rose, <font color=42b9f4> Wangpeng An</font>, Yantao Yu</td>
                 <td>dl, safety</td>
                 <td><a href="https://www.sciencedirect.com/science/article/pii/S1474034617303166">Advanced Engineering Informatics</a></td>                
-                <td>--</td>
-                <td>--</td>
             </tr>
            <tr>
                 <td>2017</td>
@@ -100,8 +88,6 @@
                 <td><font color=42b9f4> Wangpeng An</font>, Haoqian Wang, Yulun Zhang, Qionghai Dai</td>
                 <td>dl, optimization</td>
                 <td><a href="https://ieeexplore.ieee.org/abstract/document/8305126">vcip oral</a></td>                
-                <td>--</td>
-                <td>--</td>
             </tr>            
            <tr>
                 <td>2017</td>
@@ -109,8 +95,6 @@
                 <td>Qingtao Tang, Li Niu, Y.S Wang, Tao Dai, <font color=42b9f4> Wangpeng An</font></td>
                 <td>ml</td>
                 <td><a href="https://www.ijcai.org/proceedings/2017/0393.pdf">ijcai</a></td>                
-                <td>--</td>
-                <td>--</td>
             </tr>            
            <tr>
                 <td>2016</td>
@@ -118,8 +102,6 @@
                 <td>Lulu Sun, Yongbing Zhang, <font color=42b9f4> Wangpeng An</font>, Jingtao Fan, Jian Zhang, Haoqian Wang, Qionghai Dai</td>
                 <td>ml</td>
                 <td><a href="https://link.springer.com/chapter/10.1007/978-3-319-48890-5_19">pcm</a></td>                
-                <td>--</td>
-                <td>--</td>
             </tr>            
                                             
     </table>
