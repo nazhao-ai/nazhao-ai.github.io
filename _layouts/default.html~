@@ -50,22 +50,22 @@
         </thead>
         <tbody>
             <tr>
+                <td>2020</td>
+                <td>Faster Clinical Time Series Classification with Filter based Feature Engineering Tree Boosting Methods</td>
+                <td> Yanke Hu, Wangpeng An, Raj Subramanian, <font color=42b9f4>Na Zhao</font>, Yang Gu and Weili Wu</td>
+                <td>ai, clinic data</td>
+                <td><a href="http://openaccess.thecvf.com/content_cvpr_2018/html/An_A_PID_Controller_CVPR_2018_paper.html">CVPR spotlight</a></td>
+                <td><a href="https://github.com/tensorboy/PIDOptimizer"><i class="fa fa-code fa-fw"></i></a></td>
+                <td><a href="https://drive.google.com/file/d/1anVlN1yeOpP8aQYYhwSEUrVWZTqWHgjq/view?usp=sharing"><i class="fa fa-desktop fa-fw"></i></a></td>
+            </tr>        
+            <tr>
                 <td>2019</td>
                 <td>A novel 18-bp in-frame deletion mutation in RUNX2 causes cleidocranial dysplasia</td>
                 <td>Li Zeng, Jiahui Wei, <font color=42b9f4>Na Zhao</font>, Shichen Sun, Yixiang Wang, Hailan Feng</td>
                 <td>ml</td>
-                <td><a href="https://www.sciencedirect.com/science/article/pii/S0003996917303497">pattern recognition</a></td>
+                <td><a href="https://www.sciencedirect.com/science/article/pii/S0003996917303497">Archives of oral biology</a></td>
                 <td>--</td>
                 <td>--</td>
-            </tr>
-            <tr>
-                <td>2018</td>
-                <td>A PID Controller Approach for Stochastic Optimization of Deep Networks</td>
-                <td><font color=42b9f4>Wangpeng An</font>, Haoqian Wang, Qingyun Sun, Jun Xu, Qionghai Dai, Lei Zhang</td>
-                <td>dl, optimization</td>
-                <td><a href="http://openaccess.thecvf.com/content_cvpr_2018/html/An_A_PID_Controller_CVPR_2018_paper.html">CVPR spotlight</a></td>
-                <td><a href="https://github.com/tensorboy/PIDOptimizer"><i class="fa fa-code fa-fw"></i></a></td>
-                <td><a href="https://drive.google.com/file/d/1anVlN1yeOpP8aQYYhwSEUrVWZTqWHgjq/view?usp=sharing"><i class="fa fa-desktop fa-fw"></i></a></td>
             </tr>
             <tr>
                 <td>2018</td>
