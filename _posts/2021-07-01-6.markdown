@@ -1,7 +1,7 @@
 ---
 layout: null
 title: fall 21 - present
-subtitle: <a href="https://hsdm.harvard.edu/"> Harvard School of Dental Medicine </a>
+subtitle: <a href="https://hsdm.harvard.edu/"> Harvard  University</a>
 image: "assets/img/1920px-Harvard_shield_wreath.svg.png"
 ---
-Implant Dentistry (Dental Specialties).
+Implant Dentistry (Dental Specialties) in School of Dental Medicine.
