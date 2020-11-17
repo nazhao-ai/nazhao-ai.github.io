@@ -115,7 +115,7 @@ th.table-sort:hover {
 
 .table-sort-search-input:focus,.table-sort-search-input:hover {
   outline    : none;
-  background : #fff;
+  background : #0ff;
 }
 
 .table-sort-highlight {
