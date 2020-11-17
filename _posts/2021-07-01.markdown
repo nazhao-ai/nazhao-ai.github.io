@@ -1,0 +1,7 @@
+---
+layout: null
+title: fall 21 - present
+subtitle: <a href="https://hsdm.harvard.edu/"> Harvard School of Dental Medicine </a>
+image: "assets/img/Harvard_School_of_Dental_Medicine_shield.svg.png"
+---
+Implant Dentistry (Dental Specialties).

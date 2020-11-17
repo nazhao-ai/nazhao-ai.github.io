@@ -1,0 +1,7 @@
+---
+layout: null
+title: fall 20 - spring 21
+subtitle: <a href="https://www.galandental.com/"> Galan Dental Clinic, San Jose, CA, USA </a>
+image: "assets/img/galanDental.png"
+---
+Assisting dentists for treating patient and management of organizing the clinic.
